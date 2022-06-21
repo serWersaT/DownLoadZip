@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownLoadZip.BLL", "DownLoadZip.BLL\DownLoadZip.BLL.csproj", "{3E419302-6568-45EB-8178-837A511333E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownLoadZip.Test", "DownLoadZip.Test\DownLoadZip.Test.csproj", "{1D21CF18-B99B-4CF1-B4FB-BDA2471F3D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E419302-6568-45EB-8178-837A511333E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E419302-6568-45EB-8178-837A511333E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E419302-6568-45EB-8178-837A511333E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E419302-6568-45EB-8178-837A511333E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D21CF18-B99B-4CF1-B4FB-BDA2471F3D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D21CF18-B99B-4CF1-B4FB-BDA2471F3D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D21CF18-B99B-4CF1-B4FB-BDA2471F3D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D21CF18-B99B-4CF1-B4FB-BDA2471F3D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A1EA647-70C1-450A-BE54-BBE8B983E18A}
+	EndGlobalSection
+EndGlobal
